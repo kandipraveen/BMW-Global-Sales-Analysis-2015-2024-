@@ -138,6 +138,7 @@ Insight:
 Units sold strongly drive total revenue, while dealership count significantly influences sales. Price and marketing spend show weak correlation, indicating low price sensitivity and limited direct marketing impact.
 
 4️⃣ Region-wise Sales Trend
+
 <img width="589" height="455" alt="Region-wise Sales Trend Over Time" src="https://github.com/user-attachments/assets/957f89ee-9ff7-4012-b182-5b5bb4b3c5b1" />
 
 Insight:
